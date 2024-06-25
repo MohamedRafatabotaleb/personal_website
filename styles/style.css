@@ -105,6 +105,7 @@ ol {
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 11rem;
+  font-size: 10px;
 }
 
 body,
