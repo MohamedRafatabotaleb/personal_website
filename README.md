@@ -32,7 +32,7 @@ The challenge is to build out the project to the provided design mockup, ensurin
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/MohamedRafatabotaleb/personal-website#solution-url)
-- Live Site URL: [Personal Website](https://mohamedrafatabotaleb.github.io/personal_website/#live-site-url)
+- Live Site URL: [Personal Website](https://mohamedrafatabotaleb.github.io/personal_website/)
 
 ## My Process
 
