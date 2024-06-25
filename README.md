@@ -27,7 +27,7 @@ The challenge is to build out the project to the provided design mockup, ensurin
 
 ### Screenshot
 
-![Project Screenshot](Screenshot.png)
+![Project Screenshot](images/Screenshot.png)
 
 ### Links
 
